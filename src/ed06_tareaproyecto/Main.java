@@ -15,7 +15,7 @@ public class Main {
         
         imprimir_emp(empleado1);
     }
-
+//esto es para comprobar cambios
     private static void imprimir_emp(Empleado empleado1) {
         empleado1.setDireccion("C/del Pez,6");
         empleado1.setNumHijos(3);
